@@ -17,8 +17,7 @@ This folder contains the complete operational instructions, user manuals, and ru
 ### Step 1: Clone the Repository
 Open your terminal and clone your GitHub repository:
 ```bash
-git clone https://github.com/suryaprabhat/BlogeForge_AI-Debt-Relief.git
-cd BlogeForge_AI-Debt-Relief
+git clone https://github.com/Nehasri126/AI-Powered-Dept-Relief-and-Financial-Recovery-Platform
 ```
 
 ### Step 2: Configure the Backend Environment
